@@ -253,6 +253,9 @@
 		91C943F81B4ECC9F00FD46A9 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					New,
+				);
 				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = "IconoclastLabs LLC";
 				TargetAttributes = {
